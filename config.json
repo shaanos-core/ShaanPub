@@ -5,21 +5,25 @@
   "description": "ShaanOS: Lightweight, modern, and extensible operating system experience online.",
   "author": {
     "name": "Shaan OS",
-    "summary": "Creator of ShaanOS and ShaanVision projects.",
-    "icon": "https://www.shaanvision.com.tr/logo.png",
-    "image": "https://www.shaanvision.com.tr/logo.png",
+    "summary": "ShaanOS: Lightweight, modern, and extensible operating system experience online.",
+    "icon": "https://social.os.shaanvision.com.tr/shaanos-orb.png",
+    "image": "https://social.os.shaanvision.com.tr/shaanosgreen.png.png",
     "handle": "shaanos",
     "manuallyApprovesFollowers": false,
     "bio": "Developer and creator focused on decentralized web technologies and ShaanOS.",
-    "avatar": "https://www.shaanvision.com.tr/logo.png",
+    "avatar": "https://social.os.shaanvision.com.tr/shaanos-orb.png",
     "links": [
       {
         "label": "Website",
-        "href": "https://shaanvision.com.tr"
+        "href": "https://os.shaanvision.com.tr"
       },
       {
         "label": "GitHub",
-        "href": "https://github.com/shaanvision"
+        "href": "https://github.com/shaanos-core"
+      },
+      {
+        "label": "ShaanPub",
+        "href": "https://www.shaanvision.com.tr/en/shaanpub"
       }
     ]
   }
