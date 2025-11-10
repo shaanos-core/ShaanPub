@@ -4,8 +4,12 @@
   "ogImage": "https://example.com/og-image.png",
   "description": "Your site description.",
   "author": {
-    "name": "Your Name",
+    "name": "Your Actor Name",
+    "summary": "A short summary of your actor.",
+    "icon": "https://example.com/icon.png",
+    "image": "https://example.com/image.png",
     "handle": "yourhandle",
+    "manuallyApprovesFollowers": false,
     "bio": "A short bio about yourself.",
     "avatar": "https://example.com/avatar.png",
     "links": [
@@ -19,4 +23,6 @@
       }
     ]
   }
+}
+
 }
